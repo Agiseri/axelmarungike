@@ -1,5 +1,3 @@
----
-layout: post
 ## CSE 4334
 
 # DATA MINING
